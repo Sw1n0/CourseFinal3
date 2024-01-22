@@ -1,0 +1,92 @@
+[
+    {
+        "id": 441945887,
+        "state": "EXECUTED",
+        "date": "2019-08-26T10:50:58.294041",
+        "operationAmount": {
+            "amount": "10000.00",
+            "currency": {
+                "name": "руб.",
+                "code": "RUB"
+            }
+        },
+        "description": "Перевод организации",
+        "from": "Maestro 1596837868705199",
+        "to": "Счет 64686473678894779589"
+    },
+    {
+        "id": 441945888,
+        "state": "EXECUTED",
+        "date": "2019-08-27T12:30:15.978084",
+        "operationAmount": {
+            "amount": "5000.00",
+            "currency": {
+                "name": "USD",
+                "code": "USD"
+            }
+        },
+        "description": "Покупка товаров в интернет-магазине",
+        "from": "Maestro 1596837868705199",
+        "to": "Visa Gold 3589276410671603"
+    },
+    {
+        "id": 441945889,
+        "state": "EXECUTED",
+        "date": "2019-08-28T18:00:00.000000",
+        "operationAmount": {
+            "amount": "2000.00",
+            "currency": {
+                "name": "EUR",
+                "code": "EUR"
+            }
+        },
+        "description": "Оплата услуг связи",
+        "from": "Maestro 1596837868705199",
+        "to": "Visa Classic 4596837868705199"
+    },
+    {
+        "id": 441945890,
+        "state": "EXECUTED",
+        "date": "2019-08-29T15:30:45.123456",
+        "operationAmount": {
+            "amount": "1500.00",
+            "currency": {
+                "name": "руб.",
+                "code": "RUB"
+            }
+        },
+        "description": "Перевод на карту",
+        "from": "Maestro 1596837868705199",
+        "to": "Карта 4276123456789012"
+    },
+    {
+        "id": 441945891,
+        "state": "EXECUTED",
+        "date": "2019-08-30T11:00:00.000000",
+        "operationAmount": {
+            "amount": "1000.00",
+            "currency": {
+                "name": "USD",
+                "code": "USD"
+            }
+        },
+        "description": "Пополнение счета телефона",
+        "from": "Maestro 1596837868705199",
+        "to": "Maestro 2396837868705199"
+    },
+    {
+        "id": 4419458923,
+        "state": "EXECUTED",
+        "date": "2019-06-30T11:00:00.000000",
+        "operationAmount": {
+            "amount": "1000.00",
+            "currency": {
+                "name": "USD",
+                "code": "USD"
+            }
+        },
+        "description": "Пополнение счета телефона",
+        "from": "Maestro 1596837868705199",
+        "to": "Maestro 2396837868705199"
+    }
+]
