@@ -106,3 +106,6 @@ def test_hide_card():
 
 def test_hide_account():
     assert hide_account("Счет 96292138399386853355") == "Счет **3355"
+
+
+
